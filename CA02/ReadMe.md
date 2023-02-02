@@ -1,6 +1,6 @@
 # CA02: eMail Spam Classifers that uses Naive Bayes supervised machine learning algorithm
 
-## - Brief description of the purpose of your program and what it is doing
+## Brief description of the purpose of your program and what it is doing
 1. This program reads spam and non-spam email text files from the directory
 2. Splits all the words from the emails and adds them to a list from which stopwords, non-alphabetical characters, and one-letter words are removed, containing solely the most common 3000 words for the training set.
 3. Trains a Naive Bayes classification algorithm on the train set
