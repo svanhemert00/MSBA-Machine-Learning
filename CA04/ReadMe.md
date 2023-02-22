@@ -14,16 +14,16 @@
 - `sys`
 
 ## What versions of various software/libraries are you using
-Python version
+- Python version
 3.9.7 | packaged by conda-forge | (default, Sep 29 2021, 19:20:46) 
 [GCC 9.4.0]
 Version info.
 sys.version_info(major=3, minor=9, micro=7, releaselevel='final', serial=0)
 
-NumPy version: 1.22.1
-pandas version: 1.4.0
-Matplotlib version: 3.5.1
-scikit-learn version: 1.0.2
+- NumPy version: 1.22.1
+- pandas version: 1.4.0
+- Matplotlib version: 3.5.1
+- scikit-learn version: 1.0.2
 
 ## What dataset are you using and their source
 Source: https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true
